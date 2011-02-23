@@ -26,6 +26,7 @@ Tests the Integer PMC.
 
     plan(142)
     ok(0)
+    ok(0)
     test_init()
     test_basic_math()
     test_truthiness_and_definedness()
