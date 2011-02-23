@@ -25,6 +25,7 @@ Tests the Integer PMC.
     get_max_min()
 
     plan(142)
+    ok(0)
     test_init()
     test_basic_math()
     test_truthiness_and_definedness()
